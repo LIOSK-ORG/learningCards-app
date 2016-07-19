@@ -1,1 +1,1 @@
-# learningCards-app
+# Learning Cards App

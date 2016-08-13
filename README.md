@@ -10,3 +10,7 @@ Learning Cards are easy to create on go while learning, and use them to revise, 
 Learning Cards
 Flip Cards
 Quiz Cards
+
+Support all learning mini apps in LearningCards like "Sound of Word", "Abacus", "Math Grid", etc...
+
+Quiz Cards shows graphs for results and compares with previous.
